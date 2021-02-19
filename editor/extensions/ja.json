@@ -211,5 +211,17 @@
     "wedo2.tiltDirection.right": "右",
     "wedo2.tiltDirection.up": "上",
     "wedo2.whenDistance": "距離[OP][REFERENCE]のとき",
-    "wedo2.whenTilted": "[TILT_DIRECTION_ANY]に傾いたとき"
+    "wedo2.whenTilted": "[TILT_DIRECTION_ANY]に傾いたとき",
+    "minecraft.setHost": "[TEXT]に接続する",
+    "minecraft.chat": "[TEXT]と言う",
+    "minecraft.setBlock": "[BLOCK]ブロックを([STARTX],[STARTY],[STARTZ])に置く",
+    "minecraft.setBlocks": "[BLOCK]ブロックを([STARTX],[STARTY],[STARTZ])から([ENDX],[ENDY],[ENDZ])まで置く",
+    "minecraft.getPlayerPosition": "現在位置を調べる",
+    "minecraft.changePosX": "Xを[VALUE]だけ変える",
+    "minecraft.changePosY": "Yを[VALUE]だけ変える",
+    "minecraft.changePosZ": "Zを[VALUE]だけ変える",
+    "minecraft.blockInfo": "[BLOCK]",
+    "minecraft.stone": "石",
+    "minecraft.air": "空気",
+    "minecraft.granite": "花崗岩"
 }

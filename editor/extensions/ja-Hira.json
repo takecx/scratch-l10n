@@ -211,5 +211,17 @@
     "wedo2.tiltDirection.right": "みぎ",
     "wedo2.tiltDirection.up": "うえ",
     "wedo2.whenDistance": "きょり[OP][REFERENCE]のとき",
-    "wedo2.whenTilted": "[TILT_DIRECTION_ANY]にかたむいたとき"
+    "wedo2.whenTilted": "[TILT_DIRECTION_ANY]にかたむいたとき",
+    "minecraft.setHost": "[TEXT]にせつぞくする",
+    "minecraft.chat": "[TEXT]という",
+    "minecraft.setBlock": "[BLOCK]ブロックを([STARTX],[STARTY],[STARTZ])におく",
+    "minecraft.setBlocks": "[BLOCK]ブロックを([STARTX],[STARTY],[STARTZ])から([ENDX],[ENDY],[ENDZ])までおく",
+    "minecraft.getPlayerPosition": "げんざいいちをしらべる",
+    "minecraft.changePosX": "Xを[VALUE]だけかえる",
+    "minecraft.changePosY": "Yを[VALUE]だけかえる",
+    "minecraft.changePosZ": "Zを[VALUE]だけかえる",
+    "minecraft.blockInfo": "[BLOCK]",
+    "minecraft.stone": "いし",
+    "minecraft.air": "くうき",
+    "minecraft.granite": "かこうがん"
 }
