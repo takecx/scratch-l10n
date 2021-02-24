@@ -220,8 +220,13 @@
     "minecraft.changePosX": "Xを[VALUE]だけ変える",
     "minecraft.changePosY": "Yを[VALUE]だけ変える",
     "minecraft.changePosZ": "Zを[VALUE]だけ変える",
-    "minecraft.blockInfo": "[BLOCK]",
+    "minecraft.buildingBlockInfo": "建築ブロック：[BLOCK]",
     "minecraft.stone": "石",
     "minecraft.air": "空気",
-    "minecraft.granite": "花崗岩"
+    "minecraft.granite": "花崗岩",
+    "minecraft.spawnEntity": "([STARTX],[STARTY],[STARTZ])に[ENTITY]を召喚する",
+    "minecraft.entityInfo": "[ENTITY]",
+    "minecraft.wither_skeleton": "ウィザースケルトン",
+    "minecraft.elder_guardian": "エルダーガーディアン",
+    "minecraft.armor_stand": "防具立て"
 }

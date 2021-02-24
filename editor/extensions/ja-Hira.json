@@ -220,8 +220,13 @@
     "minecraft.changePosX": "Xを[VALUE]だけかえる",
     "minecraft.changePosY": "Yを[VALUE]だけかえる",
     "minecraft.changePosZ": "Zを[VALUE]だけかえる",
-    "minecraft.blockInfo": "[BLOCK]",
+    "minecraft.buildingBlockInfo": "けんちくブロック：[BLOCK]",
     "minecraft.stone": "いし",
     "minecraft.air": "くうき",
-    "minecraft.granite": "かこうがん"
+    "minecraft.granite": "かこうがん",
+    "minecraft.spawnEntity": "([STARTX],[STARTY],[STARTZ])に[ENTITY]をしょうかんする",
+    "minecraft.entityInfo": "[ENTITY]",
+    "minecraft.wither_skeleton": "ウィザースケルトン",
+    "minecraft.elder_guardian": "エルダーガーディアン",
+    "minecraft.armor_stand": "ぼうぐたて"
 }
