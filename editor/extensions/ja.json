@@ -1052,5 +1052,16 @@
     "minecraft.totem": "不死のトーテム",
     "minecraft.townaura": "菌糸の胞子",
     "minecraft.wake": "釣り",
-    "minecraft.witchMagic": "ウィッチの魔法"
+    "minecraft.witchMagic": "ウィッチの魔法",
+    "minecraft.clear": "晴れ",
+    "minecraft.rain": "雨",
+    "minecraft.thunder": "雷",
+    "minecraft.survival": "サバイバルモード",
+    "minecraft.creative": "クリエイティブモード",
+    "minecraft.adventure": "アドベンチャーモード",
+    "minecraft.spectator": "スペクテイターモード",
+    "minecraft.peaceful": "ピースフル",
+    "minecraft.easy": "イージー",
+    "minecraft.normal": "ノーマル",
+    "minecraft.hard": "ハード"
 }

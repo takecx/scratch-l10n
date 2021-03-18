@@ -1064,5 +1064,16 @@
     "minecraft.totem": "ふしのとーてむ",
     "minecraft.townaura": "きんしのほうし",
     "minecraft.wake": "つり",
-    "minecraft.witchMagic": "うぃっちのまほう"
+    "minecraft.witchMagic": "うぃっちのまほう",
+    "minecraft.clear": "はれ",
+    "minecraft.rain": "あめ",
+    "minecraft.thunder": "かみなり",
+    "minecraft.survival": "さばいばるもーど",
+    "minecraft.creative": "くりえいてぃぶもーど",
+    "minecraft.adventure": "あどべんちゃーもーど",
+    "minecraft.spectator": "すぺくていたーもーど",
+    "minecraft.peaceful": "ぴーすふる",
+    "minecraft.easy": "いーじー",
+    "minecraft.normal": "のーまる",
+    "minecraft.hard": "はーど"
 }

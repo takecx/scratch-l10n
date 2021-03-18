@@ -1064,5 +1064,16 @@
     "minecraft.totem": "totem",
     "minecraft.townaura": "townaura",
     "minecraft.wake": "wake",
-    "minecraft.witchMagic": "witchMagic"
+    "minecraft.witchMagic": "witchMagic",
+    "minecraft.clear": "clear",
+    "minecraft.rain": "rain",
+    "minecraft.thunder": "thunder",
+    "minecraft.survival": "survival mode",
+    "minecraft.creative": "creative mode",
+    "minecraft.adventure": "adventure mode",
+    "minecraft.spectator": "spectator mode",
+    "minecraft.peaceful": "peaceful",
+    "minecraft.easy": "easy",
+    "minecraft.normal": "normal",
+    "minecraft.hard": "hard"
 }
