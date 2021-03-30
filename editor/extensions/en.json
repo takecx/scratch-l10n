@@ -215,6 +215,7 @@
     "minecraft.command.chat": "say [TEXT]",
     "minecraft.command.setBlock": "set [BLOCK] block at ([STARTX],[STARTY],[STARTZ])",
     "minecraft.command.setBlocks": "set [BLOCK] block at from ([STARTX],[STARTY],[STARTZ]) to ([ENDX],[ENDY],[ENDZ])",
+    "minecraft.command.resetAroundHere": "Reset the surroundings range : [AREA]",
     "minecraft.command.getPlayerPosition": "search current position",
     "minecraft.command.changePosX": "change X to[VALUE]",
     "minecraft.command.changePosY": "change Y to[VALUE]",

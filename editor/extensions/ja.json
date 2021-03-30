@@ -216,6 +216,7 @@
     "minecraft.command.chat": "[TEXT]と言う",
     "minecraft.command.setBlock": "[BLOCK]ブロックを([STARTX],[STARTY],[STARTZ])に置く",
     "minecraft.command.setBlocks": "[BLOCK]ブロックを([STARTX],[STARTY],[STARTZ])から([ENDX],[ENDY],[ENDZ])まで置く",
+    "minecraft.command.resetAroundHere": "周辺をリセット 範囲：[AREA]",
     "minecraft.command.getPlayerPosition": "現在位置を調べる",
     "minecraft.command.changePosX": "Xを[VALUE]だけ変える",
     "minecraft.command.changePosY": "Yを[VALUE]だけ変える",

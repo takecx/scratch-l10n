@@ -215,6 +215,7 @@
     "minecraft.command.chat": "[TEXT]という",
     "minecraft.command.setBlock": "[BLOCK]ぶろっくを([STARTX],[STARTY],[STARTZ])におく",
     "minecraft.command.setBlocks": "[BLOCK]ぶろっくを([STARTX],[STARTY],[STARTZ])から([ENDX],[ENDY],[ENDZ])までおく",
+    "minecraft.command.resetAroundHere": "しゅうへんをりせっと はんい：[AREA]",
     "minecraft.command.getPlayerPosition": "げんざいいちをしらべる",
     "minecraft.command.changePosX": "Xを[VALUE]だけかえる",
     "minecraft.command.changePosY": "Yを[VALUE]だけかえる",
